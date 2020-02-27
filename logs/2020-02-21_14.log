@@ -1,0 +1,5 @@
+[2020-02-21 14:25:41,690] - Logger.py >>> - INFO: Connection database success
+[2020-02-21 14:25:41,692] - Logger.py >>> - ERROR: (1146, "Table 'test.student1' doesn't exist")
+[2020-02-21 14:25:41,693] - Logger.py >>> - ERROR: Execute sql fail, and the sql grammar is >> select * from student1
+[2020-02-21 14:26:01,668] - Logger.py >>> - INFO: Connection database success
+[2020-02-21 14:26:01,669] - Logger.py >>> - INFO: Execute sql grammar success
